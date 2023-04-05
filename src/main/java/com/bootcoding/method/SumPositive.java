@@ -6,7 +6,7 @@
         Input:[10,-20,-2,-2]
         Output: 10*/
 
-package main.java.com.bootcoding.Method;
+package main.java.com.bootcoding.method;
 
 public class SumPositive {
     public static void main(String [] args){
