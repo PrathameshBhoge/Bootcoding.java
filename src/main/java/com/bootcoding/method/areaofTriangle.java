@@ -1,7 +1,7 @@
 //Write a function that takes the base and height of a triangle and return its area.
 //The area of a triangle is: (base * height) / 2 Don't forget to return the result.
 
-package main.java.com.bootcoding.Method;
+package main.java.com.bootcoding.method;
 
 public class areaofTriangle {
     public static void main (String []args){
@@ -10,7 +10,7 @@ public class areaofTriangle {
 
             int res;
             res=Area(base,height);
-            System.out.println("The area of Trianhle is "+ res);
+            System.out.println("The area of Triangle is "+ res);
         }
         public static int Area(int base, int height){
 
