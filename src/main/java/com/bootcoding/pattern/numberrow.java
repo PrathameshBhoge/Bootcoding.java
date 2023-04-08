@@ -1,4 +1,4 @@
-package pattern;
+package main.java.com.bootcoding.pattern;
 //1
 //12
 //123
