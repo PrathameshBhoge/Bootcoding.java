@@ -1,4 +1,4 @@
-package Array;
+package main.java.com.bootcoding.array;
 
 public class ArrayLoop1 {
     public static void main(String [] args){
